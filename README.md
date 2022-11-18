@@ -1,7 +1,7 @@
 <h1 align="center">Hallo, My name is Sinta Nurleta 👋</h1>
 <h3 align="center">I'm UI Designer & Junior Front End Developer</h3>
 
-Now I'm learning how to become a user interface designer and front end web developer. I started to hone my creativity by adding more references to create a work. I am also interested in IT, especially programming. Currently learning how to become a front end developer by continuing to learn and adding project references to create a website. Since I studied in the multimedia education study program, I began to study the design of tools and applications related to developers. Starting to like current activities and hope to develop in the future.
+Now I'm learning how to become a User Interface designer and Front-end, Web Developer. I started to hone my creativity by adding more references to create a masterpiece. I'm also interested in IT, especially programming. Currently learning how to become a front-end developer by continuing to learn and adding project references to create a website. I'm currently studying the Multimedia Education Major, I started to study the design of tools and applications related to developers. Starting to like current activities and hope to develop in the future.
 
 * 🌍  I'm based in Bandung, West Java, Indonesia
 * ✉️  You can contact me at [sntnurleta@gmail.com](mailto:sntnurleta@gmail.com)
